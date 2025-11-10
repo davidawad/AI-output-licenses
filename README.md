@@ -21,3 +21,7 @@ Yes, this repository _ITSELF_ is licensed under the MIT License. See the [LICENS
 #### shameless disclaimer
 
 Note, none of the contents of this repository constitute legal advice. For legal advice, please consult a qualified attorney such as david@awad.lawyer.
+
+#### thank you
+
+Thanks to [Thomas Naem](https://www.linkedin.com/in/thomas-naem-41397023b/) for assistance in drafting these licenses.
